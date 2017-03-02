@@ -7,7 +7,7 @@ public class Hello {
 
 		 int arr[]={1,2,3,4,5,6,7,8,9,10};  
 		  
-		   for(int i:arr666666666666){  
+		   for(int i:arr66666eeeeeeeee6666666){  
 
 		     System.out.println(i);  
 		   }  
